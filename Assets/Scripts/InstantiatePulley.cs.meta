@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55b112a83240abf4cbfa7ff25cd53ebc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pulley1: {instanceID: 0}
+  - Pulley2: {instanceID: 0}
+  - Pulley3: {fileID: 8021780772820347336, guid: 2e6020626739e6047856e039f45e909f, type: 3}
+  - currentPulley: {instanceID: 0}
+  - dropdown: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
